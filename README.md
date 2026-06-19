@@ -1,6 +1,8 @@
 # PRODIGY_DS_04
 TASK 4 SUBMISSION OF DATA SCIENCE SUBMITTED BY ABHRAJYOTI ROY
 
+- Dataset --- https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis?resource=download
+
 # Prodigy InfoTech Internship: Data Analysis Insights
 
 Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 4 of my internship journey, focusing on data cleaning, analysis, and uncovering insightful patterns.
